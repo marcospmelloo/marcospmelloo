@@ -1,32 +1,62 @@
-## 👋 Olá, eu sou o Marcos Paulo!
+# 👋 Olá, eu sou o Marcos Paulo!
 
-💻 Desenvolvedor em formação com foco em **C# e .NET**  
-📚 Estudando Programação Orientada a Objetos, bancos de dados e desenvolvimento web  
-🚀 Em busca da primeira oportunidade como **estagiário ou desenvolvedor júnior**
+💻 Desenvolvedor Back-End em formação.
 
 ---
 
-## 🧠 Tecnologias & Estudos
+## 🧠 Sobre mim
 
-![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+🎓 Estudante de **Engenharia de Software** na Estácio de Sá
+🚀 Participante da **Residência em TIC - Software do Serratec**
+📚 Em constante evolução na área de desenvolvimento
 
+---
+
+## 💻 Tecnologias e Ferramentas
+
+### 🚀 Back-End
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+
+### 🗄️ Banco de Dados
+
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=database\&logoColor=white)
+
+### 🌐 Front-End
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 
 ---
 
 ## 📚 Atualmente estudando
-- C# com Programação Orientada a Objetos  
-- .NET  
-- MySQL  
-- HTML  
-- Java  
+
+📊 Banco de Dados
+
+☕ Java
 
 ---
 
-## 📫 Como me encontrar
+## 🎯 Foco
 
-- 💼 LinkedIn: https://www.linkedin.com/in/marcos-paulo-mello-6b87ab375/
-- 🐙 GitHub: https://github.com/marcospmelloo
+Desenvolvimento **Back-End**, com ênfase em construção de APIs e manipulação de banco de dados.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=marcospmelloo&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcospmelloo&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contato
+
+📧 [marcospoliveiramello@gmail.com](mailto:marcospoliveiramello@gmail.com) 
+
+💼 https://www.linkedin.com/in/marcos-paulo-mello-6b87ab375/ 
+
+🐙 https://github.com/marcospmelloo
+
+---
