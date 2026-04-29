@@ -35,6 +35,8 @@
 
 ☕ Java
 
+🌐 Front-End Essencial
+
 ---
 
 ## 🎯 Foco
