@@ -1,58 +1,46 @@
-# 👋 Olá, eu sou o Marcos Paulo!
+# Olá! Eu sou o Marcos Paulo 👋
 
-💻 Desenvolvedor Back-End em formação.
+Desenvolvedor de Software em formação, com foco em Back-End e desenvolvimento de APIs.
 
----
+## 🧑‍💻 Sobre mim
 
-## 🧠 Sobre mim
+- 🎓 Graduando em Engenharia de Software pela Estácio.
+- 📚 Técnico em Informática pelo Liceu São José de Itaipava.
+- 💼 Atualmente trabalho na Best2Bee como Técnico de Suporte de Operações Nível 1, atuando no suporte a operações de tecnologia.
+- 🚀 Concluí a Residência em TIC/Software do Serratec, com experiência em desenvolvimento de software e trabalho em equipe.
+- 💡 Tenho interesse em desenvolvimento Back-End, arquitetura de software e banco de dados.
+- 🎯 Busco aprimorar minhas habilidades e construir minha carreira como desenvolvedor de software.
 
-- 🎓 Estudante de **Engenharia de Software** na Estácio de Sá
-- 🚀 Participante da **Residência em TIC/Software do Serratec**
-- 📚 Em constante evolução na área de desenvolvimento
+## 🛠️ Tecnologias e Ferramentas
 
----
-
-## 💻 Tecnologias e Ferramentas
-
-### 🚀 Back-End
-
-- C#
+**Back-End**
 - Java
 - Spring Boot
+- C#
 
-### 🗄️ Banco de Dados
-
+**Banco de Dados**
+- PostgreSQL
 - SQL
 
-### 🌐 Front-End
-
-- HTML
-- CSS
+**Front-End**
+- HTML5
+- CSS3
 - JavaScript
-- React.js e React Native
+- React.js
 
----
+**Ferramentas**
+- Git e GitHub
+- Docker
+- Postman
+- Swagger
+- Apache Kafka
+- n8n
 
-## 🎯 Foco
+## 📚 Atualmente estudando
 
-Desenvolvimento **Back-End**, com ênfase em construção de APIs e manipulação de banco de dados.
+Aprofundando meus conhecimentos em desenvolvimento Back-End, construção de APIs REST, estruturas de dados, algoritmos, bancos de dados e boas práticas de desenvolvimento de software.
 
----
+## 📫 Entre em contato
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=marcospmelloo&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcospmelloo&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Contato
-
-📧 [marcospoliveiramello@gmail.com](mailto:marcospoliveiramello@gmail.com) 
-
-💼 https://www.linkedin.com/in/marcos-paulo-mello-6b87ab375/ 
-
-🐙 https://github.com/marcospmelloo
-
----
+- LinkedIn: [Marcos Paulo](https://www.linkedin.com/in/marcos-paulo-mello-6b87ab375/)
+- GitHub: [@marcospmelloo](https://github.com/marcospmelloo)
